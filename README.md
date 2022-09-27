@@ -37,9 +37,18 @@
 <img src="ScreenShot/관리자%20페이지/1.%20모니터링%20-%20장비현황.png" width="100%"/>&nbsp;
 </div></br>
 
-- <b>장비목록</b> :
+- <b>장비목록</b> : 분류별 장비들의 상태 확인  
 <div align="center">
 <img src="ScreenShot/관리자%20페이지/3.%20장비목록%20-%20터보블로워.png" width:100%;/>&nbsp;
 </div></br>
 
+- <b>데이터목록</b> : 선택한 장비에서 업로드된 데이터 목록 및 성능곡선 확인
+<div align="center">
+<img src="ScreenShot/관리자%20페이지/3.%20장비목록%20-%20터보블로워.png" width:100%;/>&nbsp;
+</div></br>
+
+- <b>문의관리</b> : APP과 WEB에서 올린 문의&작업 내역을 확인하고 답변
+<div align="center">
+<img src="ScreenShot/관리자%20페이지/3.%20장비목록%20-%20터보블로워.png" width:100%;/>&nbsp;
+</div></br>
 
