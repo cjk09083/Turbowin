@@ -34,10 +34,10 @@
 ### 관리자 Web 
 - 재료를 직접 입력하거나 엑셀 파일로 한번에 입력 가능
 <div align="center" >
-<img src="ScreenShot/관리자%20페이지/1.%20모니터링%20-%20장비현황.png" width="80%"/>&nbsp;
+<img src="ScreenShot/관리자%20페이지/1.%20모니터링%20-%20장비현황.png" width="100%"/>&nbsp;
 </div></br>
 <div align="center" >
-<img src="ScreenShot/관리자%20페이지/1.%20모니터링%20-%20터보블로워.png" width="80%"/>&nbsp;
+<img src="ScreenShot/관리자%20페이지/1.%20모니터링%20-%20터보블로워.png" width="100%"/>&nbsp;
 </div></br>
 
 
