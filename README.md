@@ -32,7 +32,7 @@
 <img src="ScreenShot/어플리케이션/6.%20작업리스트.jpg" width="23%"/>&nbsp;
 </div></br>
 
-### 모니터링 Web
+### 관리자 Web 
 - 재료를 직접 입력하거나 엑셀 파일로 한번에 입력 가능
 - 이후 공정에서 자동으로 수량 증감
 <div align="center" >
