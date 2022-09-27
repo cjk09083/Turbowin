@@ -32,12 +32,14 @@
 </div></br>
 
 ### 관리자 Web 
-- 재료를 직접 입력하거나 엑셀 파일로 한번에 입력 가능
+- <b>메인 장비모니터링</b> : 현재 장비 및 고객문의 현황 표시
 <div align="center" >
 <img src="ScreenShot/관리자%20페이지/1.%20모니터링%20-%20장비현황.png" width="100%"/>&nbsp;
 </div></br>
+
+- <b>장비목록</b> :
 <div align="center" >
-<img src="ScreenShot/관리자%20페이지/1.%20모니터링%20-%20터보블로워.png" width="100%"/>&nbsp;
+<img src="ScreenShot/관리자%20페이지/3.%20장비목록%20-%20터보블로워.png" width="100%"/>&nbsp;
 </div></br>
 
 
