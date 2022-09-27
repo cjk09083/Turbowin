@@ -17,13 +17,22 @@
 - 디자인, 웹퍼블리싱 제외 1인개발
 
 ## 기능
-### 회원관리
-- 사원 정보 및 게시판별 권한 설정
+### Android APP
+- 설치된 장비별 최신 상태 출력
 <div align="center" >
-<img src="ScreenShot/1-1.%20상세정보.png" width="90%"/>
+<img src="ScreenShot/어플리케이션/0.%20로그인.jpg" width="30%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/1.%20메인.jpg" width="30%"/>&nbsp;
 </div></br>
 
-### 원료, 부자재등 재료 관리
+- 선택한 장비의 상세정보, 성능곡선, 그래프, 작업 TAB 제공
+<div align="center" >
+<img src="ScreenShot/어플리케이션/2.%20장비.jpg" width="23%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/3.%20성능.jpg" width="23%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/4.%20그래프.jpg" width="23%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/6.%20작업리스트.jpg" width="23%"/>&nbsp;
+</div></br>
+
+### 모니터링 Web
 - 재료를 직접 입력하거나 엑셀 파일로 한번에 입력 가능
 - 이후 공정에서 자동으로 수량 증감
 <div align="center" >
