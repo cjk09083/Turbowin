@@ -35,7 +35,7 @@
 - <b>메인 장비모니터링</b> : 현재 장비 및 고객문의 현황 표시
 <div align="center" >
 <img src="ScreenShot/관리자%20페이지/1.%20모니터링%20-%20장비현황.png" width="100%"/></br>
-<img src="ScreenShot/관리자%20페이지/1.%20모니터링%20-%20터보블로워.png" width="100%"/>
+<img src="ScreenShot/관리자%20페이지/cropped/1.%20모니터링%20-%20터보블로워.png" width="100%"/>
 </div></br>
 
 - <b>장비목록</b> : 분류별 장비들의 상태 확인  
