@@ -39,7 +39,7 @@
 
 - <b>장비목록</b> :
 <div align="center" >
-<img style="overflow: hidden;height=300px;" src="ScreenShot/관리자%20페이지/3.%20장비목록%20-%20터보블로워.png" width="100%"/>&nbsp;
+<img style="overflow: hidden;height:300px;" src="ScreenShot/관리자%20페이지/3.%20장비목록%20-%20터보블로워.png" width="100%"/>&nbsp;
 </div></br>
 
 
