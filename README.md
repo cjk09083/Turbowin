@@ -31,27 +31,5 @@
 <img src="ScreenShot/2-1%20원료%20정보.png" width="50%"/>
 </div></br>
 
-### 처방전, 재조지시서 관리
-- 원료 목록에서 성분을 검색하여 함량을 입력해 처방전을 제작
-<div align="center" >
-<img src="ScreenShot/3-2%20처방전%20정보.png" width="100%"/>
-</div></br>
-
-- 제품 생산시 처방전을 제조지시서 형태로 활용
-<div align="center" >
-<img src="ScreenShot/3-3%20제조지시서%20정보.png" width="100%"/>
-</div></br>
-
-### 생산 관리
-- 반제품, 완제품 생산시 필요한 원료, 부자재를 자동 차감
-<div align="center" >
-<img src="ScreenShot/4-1%20반제품%20관리.png" width="100%"/>
-</div></br>
-
-- 이후 QC, 출하 관리에서 출하 상태 및 수량 자동 관리
-<div align="center" >
-<img src="ScreenShot/8-2%20완제품%20출하관리.png" width="100%"/>
-</div></br>
-
 
 
