@@ -38,8 +38,8 @@
 </div></br>
 
 - <b>장비목록</b> :
-<div align="center" style="  overflow:hidden; position:relative;width:100%; height:300px;">
-<img style="position:absolute; left:-60%; top:-60%;" src="ScreenShot/관리자%20페이지/3.%20장비목록%20-%20터보블로워.png"/>&nbsp;
+<div align="center">
+<img src="ScreenShot/관리자%20페이지/3.%20장비목록%20-%20터보블로워.png" width:100%;/>&nbsp;
 </div></br>
 
 
