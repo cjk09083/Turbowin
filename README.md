@@ -20,16 +20,16 @@
 ### Android APP
 - 설치된 장비별 최신 상태 출력
 <div align="center" >
-<img src="ScreenShot/어플리케이션/0.%20로그인.jpg" width="30%"/>&nbsp;
-<img src="ScreenShot/어플리케이션/1.%20메인.jpg" width="30%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/0.%20로그인.jpg" width="20%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/1.%20메인.jpg" width="20%"/>&nbsp;
 </div></br>
 
 - 선택한 장비의 상세정보, 성능곡선, 그래프, 작업 TAB 제공
 <div align="center" >
-<img src="ScreenShot/어플리케이션/2.%20장비.jpg" width="23%"/>&nbsp;
-<img src="ScreenShot/어플리케이션/3.%20성능.jpg" width="23%"/>&nbsp;
-<img src="ScreenShot/어플리케이션/4.%20그래프.jpg" width="23%"/>&nbsp;
-<img src="ScreenShot/어플리케이션/6.%20작업리스트.jpg" width="23%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/2.%20장비.jpg" width="20%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/3.%20성능.jpg" width="20%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/4.%20그래프.jpg" width="20%"/>&nbsp;
+<img src="ScreenShot/어플리케이션/6.%20작업리스트.jpg" width="20%"/>&nbsp;
 </div></br>
 
 ### 관리자 Web 
