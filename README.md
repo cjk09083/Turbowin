@@ -15,7 +15,7 @@
 ## 담당
 - 디자인, 웹퍼블리싱 제외 1인개발
 
-## 기능 : Android APP
+## 기능 : 전체 기기 모니터링 APP (Android)
 ### 설치된 장비별 최신 상태 출력
 <div align="center" >
 <img src="ScreenShot/어플리케이션/0.%20로그인.jpg" width="25%"/>&nbsp;
